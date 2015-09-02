@@ -1,10 +1,12 @@
 BarcodePro
 ==========
 
-BarcodePro, Best Barcode Maker
+[![](http://res.cloudinary.com/dfzokzfi5/image/upload/v1422712829/app-store-button__by05gx.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-3)
 
 
-[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_100/v1416983052/common/buy.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-3)
-[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_96/v1416983052/common/cart.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-3)
+![](https://github.com/Romanysoft/BarcodePro/blob/master/images/8.0/1.jpg)
+![](https://github.com/Romanysoft/BarcodePro/blob/master/images/8.0/2.jpg)
+![](https://github.com/Romanysoft/BarcodePro/blob/master/images/8.0/3.jpg)
+![](https://github.com/Romanysoft/BarcodePro/blob/master/images/8.0/4.jpg)
 
-![](http://res.cloudinary.com/dfzokzfi5/image/upload/v1416964520/BarcodePro/screen_barcoodepro.jpg)
+
