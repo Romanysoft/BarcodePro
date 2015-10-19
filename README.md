@@ -38,7 +38,7 @@ Feature:
 
 
 2. it may be saved in the following file format
-================================================================
+
 (1) png
 (2) jpg
 (3) jpeg
