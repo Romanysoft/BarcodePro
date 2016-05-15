@@ -1,0 +1,123 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Professional Barcode builder and creator.",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
+        "BtnBuy": "Buy",
+        "BtnBuyDescription": "$25.99 | Official free upgrade.",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Support barcode type: EAN8.",
+                "Support barcode type: EAN13.",
+                "Support barcode type: UPCE.",
+                "Support barcode type: UPCA.",
+                "Support barcode type: Code11.",
+                "Support barcode type: Code39.",
+                "Support barcode type: Code39Extended.",
+                "Support barcode type: Code93.",
+                "Support barcode type: Code93Extended.",
+                "Support barcode type: Code128.",
+                "Support barcode type: Code128A.",
+                "Support barcode type: Code128B.",
+                "Support barcode type: Code128C.",
+                "Support barcode type: MSImod10.",
+                "Support barcode type: MSImod11.",
+                "Support barcode type: MSImod1010.",
+                "Support barcode type: MSImod1110.",
+                "Support barcode type: GS1-128.",
+                "Support barcode type: POSTNE.",
+                "Support export as  PNG",
+                "Support export as  JPG",
+                "Support export as  JPEG",
+                "Support export as  TIFF",
+                "Support export as  GIF",
+                "Support export as  PDF",
+                "Support export as  EPS",
+                "Support export as  BMP",
+                "Support export as  SVG"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about...",
+            "list": [
+                {
+                    "reviewContent": "BarcodePro is stunning. Simple. Clean. Perfect. Well done.",
+                    "userName": "Araron ",
+                    "professional": "Technology Evangelist"
+                },
+                {
+                    "reviewContent": "BarcodePro is what I do pretty much all of my working. It's a great little app.",
+                    "userName": "Peter Bright",
+                    "professional": "Web Developer and Designer"
+                },
+                {
+                    "reviewContent": "If you have any interest in barcode, BarcodePro is definitely worth a download.",
+                    "userName": "Lifehacker's",
+                    "professional": "Web developers and designers"
+                },
+                {
+                    "reviewContent": "I really like BarcodePro, has brought much convenience for my work.",
+                    "userName": "jeruss",
+                    "professional": "JAVA Framework Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{8.1}}",
+                "updateDate": "{{2016.03.03}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{BarcodePro-v8.1.0-darwin-x64.zip}}",
+                        "size": "{{4.08MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6s7o38l38rqp/BarcodePro-v8.1.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+            {
+                "name": "{{BarcodePro for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-3}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
